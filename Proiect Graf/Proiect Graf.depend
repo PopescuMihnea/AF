@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1634319546 source:d:\unibuc\onedrive - unibuc.ro\anul2\sem1\algfundamentali\graf\proiect graf\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<stack>
+
+1638724686 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul2\sem1\algfundamentali\graf\proiect graf\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<algorithm>
+	<unordered_map>
+	<set>
+	<deque>
+	<queue>
+	<climits>
+
